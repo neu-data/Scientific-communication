@@ -75,7 +75,7 @@ materials/
   references/     References, source map, CSV exports and link-check results
 src/              Editable source: fictional data, slide and document content, builders, brand templates
 scripts/          Render and check scripts
-docs/             Course website for GitHub Pages (no facilitator guide)
+docs/             Course website for GitHub Pages
 ```
 
 ## Fictional data

@@ -1,6 +1,5 @@
 # Neudata · publish the course website (docs/) to GitHub Pages
 # Pages source: GitHub Actions. The site is built locally by src/build_site.py and committed.
-# Only participant materials are published; the facilitator guide never is.
 name: Publish course site
 
 on:
@@ -23,11 +22,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Make sure the facilitator guide is not published
-        run: |
-          if ls docs/downloads | grep -i facilitator; then
-            echo "::error::Facilitator guide found in the site"; exit 1
-          fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs

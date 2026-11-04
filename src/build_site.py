@@ -1,8 +1,4 @@
-"""Builds the course website into docs/ for GitHub Pages.
-
-Following the neu-data course sites, the facilitator guide is not published here:
-participants should not see the model answers before the session.
-"""
+"""Builds the course website into docs/ for GitHub Pages. All materials are published."""
 import html
 import json
 import shutil
@@ -111,7 +107,7 @@ page("talk.html", "One-hour talk", f"""
 <ul><li><a href="downloads/Scientific_Communication_Talk_1h.pdf">Talk slides (PDF)</a></li><li><a href="downloads/Scientific_Communication_Talk_1h.pptx">Talk slides (editable PowerPoint)</a></li></ul>
 """)
 
-files = [("workbook/Participant_Workbook", "Participant workbook", True), ("examples/Before_After_Writing_Examples", "Before-and-after writing examples", True), ("examples/Before_After_Slides", "Before-and-after slides", True),
+files = [("facilitator/Facilitator_Guide", "Facilitator guide, with model answers", True), ("workbook/Participant_Workbook", "Participant workbook", True), ("examples/Before_After_Writing_Examples", "Before-and-after writing examples", True), ("examples/Before_After_Slides", "Before-and-after slides", True),
          ("exercises/Slide_Redesign_Exercise", "Slide redesign exercise", True), ("references/References_and_Source_Map", "References and source map", True)]
 worksheets = sorted((MAT / "worksheets").glob("*.docx"))
 files += [(f"worksheets/{p.stem}", p.stem.replace("_", " "), True) for p in worksheets]
@@ -129,7 +125,6 @@ page("materials.html", "Materials", f"""
 <h1>Materials</h1>
 <p class="lead">Every file is available in an editable format and as a PDF made from that file.</p>
 <div class="wrap"><table><thead><tr><th>Material</th><th>Download</th></tr></thead><tbody>{rows}</tbody></table></div>
-<div class="note">The facilitator guide holds the model answers, so it is kept with the course source for trainers and is not published on this site.</div>
 """)
 
 kinds = [src.RF, src.RC, src.PG, src.SP, src.TR]

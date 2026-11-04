@@ -12,6 +12,8 @@
 
 *Neudata · #ClearDataClearImpact*
 
+**Course website:** <https://neu-data.github.io/Scientific-communication/>
+
 </div>
 
 ---

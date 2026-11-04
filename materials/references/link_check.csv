@@ -1,0 +1,74 @@
+source,url,http_status,status,doi,crossref_title_matches,crossref_title
+Bourne 2007,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030077,200,ok,10.1371/journal.pcbi.0030077,yes,Ten Simple Rules for Making Good Oral Presentations
+Naegle 2021,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554,200,ok,10.1371/journal.pcbi.1009554,yes,Ten simple rules for effective presentation slides
+"Alley, AE site",https://www.assertion-evidence.com/,200,ok,,,
+AE tutorial,http://www.craftscicom.org/ae_tutorial.html,200,ok,,,
+AE defence,https://www.assertion-evidence.com/dissertation_defense.html,200,ok,,,
+Penn State set,https://bpb-us-e1.wpmucdn.com/sites.psu.edu/dist/7/13153/files/2008/10/Assertion-Evidence-Slides-Instruction_Set.pdf,200,ok,,,
+Garner 2009,https://writing.engr.psu.edu/ae_psychology.pdf,200,ok,,,
+Garner & Alley 2013,https://www.ijee.ie/articles/Vol29-6/23_ijee2791ns.pdf,200,ok,,,
+Farkas 2010,https://faculty.washington.edu/farkas/dfpubs/Farkas-Assessment%20Of%20Alleys%20Slide%20Design.pdf,200,ok,,,
+Mayer & Moreno 2003,https://doi.org/10.1207/S15326985EP3801_6,403,"blocked, checked by hand",10.1207/S15326985EP3801_6,no Crossref record,
+Kosslyn 2012,https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2012.00230/full,200,ok,10.3389/fpsyg.2012.00230,yes,PowerPoint® Presentation Flaws and Failures: A Psychological Analysis
+Rougier 2014,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833,200,ok,10.1371/journal.pcbi.1003833,yes,Ten Simple Rules for Better Figures
+Heer & Bostock 2010,https://homes.cs.washington.edu/~jheer/files/2010-MTurk-CHI.pdf,200,ok,10.1145/1753326.1753357,yes,Crowdsourcing graphical perception
+Cleveland & McGill 1984,https://doi.org/10.1080/01621459.1984.10478080,403,"blocked, checked by hand",10.1080/01621459.1984.10478080,no Crossref record,
+Weissgerber 2015,https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128,200,ok,10.1371/journal.pbio.1002128,yes,Beyond Bar and Line Graphs: Time for a New Data Presentation Paradigm
+Correll 2020,https://arxiv.org/abs/1907.02035,0,publisher blocks scripts,10.1145/3313831.3376222,yes,Truncating the Y-Axis: Threat or Menace?
+Pandey 2015,https://doi.org/10.1145/2702123.2702608,403,publisher blocks scripts,10.1145/2702123.2702608,yes,How Deceptive are Deceptive Visualizations?
+Wilke 2019,https://clauswilke.com/dataviz/,200,ok,,,
+Crameri 2020,https://pmc.ncbi.nlm.nih.gov/articles/PMC7595127/,200,ok,10.1038/s41467-020-19160-7,yes,The misuse of colour in science communication
+Okabe & Ito,https://jfly.uni-koeln.de/color/,200,ok,,,
+WCAG 1.4.3,https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html,200,ok,,,
+WCAG 1.4.1,https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html,200,ok,,,
+WCAG2ICT,https://www.w3.org/TR/wcag2ict-22/,200,ok,,,
+W3C Events,https://www.w3.org/WAI/teach-advocate/accessible-presentations/,200,ok,,,
+Microsoft,https://support.microsoft.com/en-us/office/make-your-powerpoint-presentations-accessible-to-people-with-disabilities-6f7772b2-2f33-4bd2-8ca7-dae3b2b3ef25,200,ok,,,
+WBU summary,https://medicine.usask.ca/documents/research/wbu-visual-presentations-guidelines-summary.pdf,200,ok,,,
+Legge & Bigelow 2011,https://pmc.ncbi.nlm.nih.gov/articles/PMC3428264,200,ok,10.1167/11.5.8,yes,Does print size matter for reading? A review of findings from vision science and typography
+Munro & Derwing 1995,https://doi.org/10.1111/j.1467-1770.1995.tb00963.x,403,publisher blocks scripts,10.1111/j.1467-1770.1995.tb00963.x,yes,"Foreign Accent, Comprehensibility, and Intelligibility in the Speech of Second Language Learners"
+Derwing & Munro 2009,https://doi.org/10.1017/S026144480800551X,403,publisher blocks scripts,10.1017/S026144480800551X,yes,Putting accent in its place: Rethinking obstacles to communication
+Ebrahimi 2019,https://pmc.ncbi.nlm.nih.gov/articles/PMC6428748/,200,ok,10.3389/fpsyg.2019.00488,yes,Psychological Interventions for the Fear of Public Speaking: A Meta-Analysis
+Streeter & Miller 2011,https://pmc.ncbi.nlm.nih.gov/articles/PMC3059906,200,ok,10.1038/embor.2011.20,yes,Any questions?
+Dunphy 2007,https://ocw.mit.edu/courses/21g-232-advanced-speaking-and-critical-listening-skills-els-spring-2007/5d0e8c2086617c14cb148e6130b1c52a_MIT21G_232S07_QA_sessions.pdf,0,PDF opened by fetch tool (script timed out),,,
+Waterloo,https://eceweb.uwaterloo.ca/~dwharder/Presentations/Guidelines/Questions/,200,ok,,,
+NIU,https://www.niu.edu/presentations/questions/index.shtml,200,ok,,,
+Hattie & Timperley 2007,https://doi.org/10.3102/003465430298487,403,publisher blocks scripts,10.3102/003465430298487,yes,The Power of Feedback
+Double 2020,https://link.springer.com/article/10.1007/s10648-019-09510-3,200,ok,10.1007/s10648-019-09510-3,yes,The Impact of Peer Assessment on Academic Performance: A Meta-analysis of Control Group Studies
+Imperial viva,https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/registry/academic-governance/public/academic-policy/research-degree-examinations/Procedure-for-Conducting-Viva-Voce-Examinations-for-Research-Degrees-Programmes.pdf,200,ok,,,
+Minnesota ECE,https://sites.google.com/umn.edu/ecegraduatehandbook/phd-program/phd-final-exam,200,ok,,,
+UCLA Neuroscience,https://www.neuroscience.ucla.edu/defense,200,ok,,,
+Halmstad,https://www.hh.se/english/research/doctoral-education/a-guide-to-the-procedure-for-the-public-defence-of-a-doctoral-thesis.html,200,ok,,,
+MIT BE defence,https://mitcommlab.mit.edu/be/2026/02/25/defense-season-wrapped-what-makes-a-thesis-defense-great/,200,ok,,,
+CDC Index,https://www.cdc.gov/ccindex/index.html,403,opened in browser (403 to scripts),,,
+Gopen & Swan 1990,https://www.americanscientist.org/blog/the-long-view/the-science-of-scientific-writing,503,opened in browser (503 to scripts),,,
+Plain Language,https://centerforplainlanguage.org/wp-content/uploads/2025/12/FederalPLGuidelines.pdf,200,ok,,,
+Digital.gov PL,https://digital.gov/guides/plain-language,200,ok,,,
+MIT abstract,https://mitcommlab.mit.edu/broad/commkit/journal-article-abstract/,200,ok,,,
+UNC abstracts,https://writingcenter.unc.edu/tips-and-tools/abstracts/,200,ok,,,
+Manchester Phrasebank,https://www.phrasebank.manchester.ac.uk/using-cautious-language/,200,ok,,,
+Altman & Bland 1995,https://pmc.ncbi.nlm.nih.gov/articles/PMC2550545/,200,ok,10.1136/bmj.311.7003.485,yes,Statistics notes: Absence of evidence is not evidence of absence
+ASA 2016,https://doi.org/10.1080/00031305.2016.1154108,403,publisher blocks scripts,10.1080/00031305.2016.1154108,yes,"The ASA Statement on
+                    <i>p</i>
+                    -Values: Context, Process, and Purpose"
+Greenland 2016,https://pmc.ncbi.nlm.nih.gov/articles/PMC4877414/,200,ok,10.1007/s10654-016-0149-3,yes,"Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations"
+SAMPL,https://equator-network.org/reporting-guidelines/sampl/,200,ok,10.1016/j.ijnurstu.2014.09.006,yes,Basic statistical reporting for articles published in Biomedical Journals: The “Statistical Analyses and Methods in the Published Literature” or the SAMPL Guidelines
+Sumner 2014,https://pmc.ncbi.nlm.nih.gov/articles/PMC4262123/,200,ok,10.1136/bmj.g7015,yes,The association between exaggeration in health related science news and academic press releases: retrospective observational study
+Haber 2018,https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196346,200,ok,10.1371/journal.pone.0196346,yes,Causal language and strength of inference in academic and media articles shared in social media (CLAIMS): A systematic review
+Haber 2022,https://doi.org/10.1093/aje/kwac137,403,"blocked, checked by hand",10.1093/aje/kwac137,no Crossref record,
+Hernan 2018,https://pmc.ncbi.nlm.nih.gov/articles/PMC5888052/,200,ok,10.2105/AJPH.2018.304337,no Crossref record,
+van der Bles 2019,https://pmc.ncbi.nlm.nih.gov/articles/PMC6549952/,200,ok,10.1098/rsos.181870,yes,"Communicating uncertainty about facts, numbers and science"
+van der Bles 2020,https://pmc.ncbi.nlm.nih.gov/articles/PMC7149229/,200,ok,10.1073/pnas.1913678117,no Crossref record,
+GRADE 26,https://doi.org/10.1016/j.jclinepi.2019.10.014,200,ok,10.1016/j.jclinepi.2019.10.014,yes,GRADE guidelines 26: informative statements to communicate the findings of systematic reviews of interventions
+Gigerenzer 2007,https://doi.org/10.1111/j.1539-6053.2008.00033.x,403,publisher blocks scripts,10.1111/j.1539-6053.2008.00033.x,yes,Helping Doctors and Patients Make Sense of Health Statistics
+Akl 2011,https://pmc.ncbi.nlm.nih.gov/articles/PMC6464912/,200,ok,10.1002/14651858.CD006776.pub2,yes,Using alternative statistical formats for presenting risks and risk reductions
+STROBE,https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0040297,200,ok,10.1371/journal.pmed.0040297,yes,"Strengthening the Reporting of Observational Studies in Epidemiology
+          (STROBE): Explanation and Elaboration"
+CONSORT Abstracts,https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0050020,200,ok,10.1371/journal.pmed.0050020,no Crossref record,
+ICMJE,https://www.icmje.org/recommendations/,200,ok,,,
+COPE AI,https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools,403,publisher blocks scripts,10.24318/cCVRZBms,yes,Authorship and AI tools
+HHS de-identification,https://www.hhs.gov/hipaa/for-professionals/special-topics/de-identification/index.html,403,"blocked, checked by hand",,,
+GDPR Recital 26,https://gdpr-info.eu/recitals/no-26/,200,ok,,,
+PHS disclosure,https://www.publichealthscotland.scot/publications/statistical-disclosure-protocol/,200,ok,,,
+Walters & Wilder 2023,https://pmc.ncbi.nlm.nih.gov/articles/PMC10484980/,200,ok,10.1038/s41598-023-41032-5,yes,Fabrication and errors in the bibliographic citations generated by ChatGPT
+Peters & Chin-Yee 2025,https://pmc.ncbi.nlm.nih.gov/articles/PMC12042776/,200,ok,10.1098/rsos.241776,yes,Generalization bias in large language model summarization of scientific research
